@@ -1,0 +1,16 @@
+module.exports = {
+  FETCH_INTERNET_SPEEDS: 'fetch-internet-speed',
+  FETCH_INTERNET_SPEEDS_DATA: 'fetch-internet-speed-data',
+  FETCH_INTERNET_SPEEDS_DOWNLOAD_PROGRESS: 'fetch-internet-speed-download-progress',
+  FETCH_INTERNET_SPEEDS_UPLOAD_PROGRESS: 'fetch-internet-speed-upload-progress',
+  FETCH_INTERNET_SPEEDS_ERROR: 'fetch-internet-speed-error',
+  SPEED_TEST_DESKTOP_DATA_FILE: 'speed-test-desktop-data',
+  SPEED_TEST_DESKTOP_DATA_SEND: 'speed-test-desktop-data-send',
+  SPEED_TEST_DESKTOP_DATA_WATCH: 'speed-test-desktop-data-watch',
+  SPEED_TEST_DESKTOP_DATA_SAVE: 'speed-test-desktop-data-save',
+  FETCH_REMOTE_VERSION: 'fetch-remote-version',
+  SEND_REMOTE_VERSION: 'send-remote-version',
+  RECEIVE_TIMER: 'receive-timer',
+  OPEN_URL: 'open-url',
+  SHOW_WINDOW: 'show-window',
+};
